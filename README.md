@@ -26,6 +26,9 @@ Este projeto demonstra como utilizar o serviço Azure AI para extrair de reviews
 - 2 Selecione a implantação do recuso Language criado no Portal Azure.
 - 3 Entre com sua amostra.
 
+[sample-1.txt](inputs/sample-1.txt)
+[sample-2.txt](inputs/sample-2.txt)
+
 ![print screen](sentiment-n-opinion-p1.png "sentiment-n-opinion-p1.png")
 
 - 4 Reconheça que o uso do recurso poderá incidir em custos.
