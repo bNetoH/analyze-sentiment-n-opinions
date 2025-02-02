@@ -1,0 +1,646 @@
+{
+    "documents": [
+        {
+            "id": "id__1530",
+            "sentiment": "mixed",
+            "confidenceScores": {
+                "positive": 0.28,
+                "neutral": 0.07,
+                "negative": 0.66
+            },
+            "sentences": [
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.34,
+                        "neutral": 0.6,
+                        "negative": 0.06
+                    },
+                    "offset": 0,
+                    "length": 160,
+                    "text": "My Experience with 5starsNetwork's Broadband Service – It Could Be Better The promise was of a fast and stable connection, but the reality was quite different. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0,
+                        "neutral": 0.04,
+                        "negative": 0.96
+                    },
+                    "offset": 160,
+                    "length": 163,
+                    "text": "During the first few days, the speed seemed to meet expectations, but I soon noticed frequent drops and fluctuations that hindered both remote work and streaming. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0,
+                        "neutral": 0.04,
+                        "negative": 0.96
+                    },
+                    "offset": 323,
+                    "length": 73,
+                    "text": "During peak hours, the internet was considerably slower than contracted. ",
+                    "targets": [
+                        {
+                            "sentiment": "negative",
+                            "confidenceScores": {
+                                "positive": 0.15,
+                                "negative": 0.85
+                            },
+                            "offset": 346,
+                            "length": 8,
+                            "text": "internet",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/2/assessments/0"
+                                }
+                            ]
+                        }
+                    ],
+                    "assessments": [
+                        {
+                            "sentiment": "negative",
+                            "confidenceScores": {
+                                "positive": 0.15,
+                                "negative": 0.85
+                            },
+                            "offset": 372,
+                            "length": 6,
+                            "text": "slower",
+                            "isNegated": false
+                        }
+                    ]
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.96,
+                        "neutral": 0.04,
+                        "negative": 0
+                    },
+                    "offset": 396,
+                    "length": 42,
+                    "text": "Technical support was a reasonable point. ",
+                    "targets": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 0.99,
+                                "negative": 0.01
+                            },
+                            "offset": 396,
+                            "length": 17,
+                            "text": "Technical support",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/3/assessments/0"
+                                }
+                            ]
+                        }
+                    ],
+                    "assessments": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 0.99,
+                                "negative": 0.01
+                            },
+                            "offset": 420,
+                            "length": 10,
+                            "text": "reasonable",
+                            "isNegated": false
+                        }
+                    ]
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.9,
+                        "neutral": 0.08,
+                        "negative": 0.02
+                    },
+                    "offset": 438,
+                    "length": 102,
+                    "text": "When I needed assistance, the wait time at the center was acceptable, and the attendants were polite. ",
+                    "targets": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 468,
+                            "length": 9,
+                            "text": "wait time",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/4/assessments/0"
+                                }
+                            ]
+                        },
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 516,
+                            "length": 10,
+                            "text": "attendants",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/4/assessments/1"
+                                }
+                            ]
+                        }
+                    ],
+                    "assessments": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 496,
+                            "length": 10,
+                            "text": "acceptable",
+                            "isNegated": false
+                        },
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 532,
+                            "length": 6,
+                            "text": "polite",
+                            "isNegated": false
+                        }
+                    ]
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0,
+                        "neutral": 0,
+                        "negative": 1
+                    },
+                    "offset": 540,
+                    "length": 59,
+                    "text": "However, resolving the problems took longer than expected. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0,
+                        "neutral": 0.05,
+                        "negative": 0.95
+                    },
+                    "offset": 599,
+                    "length": 87,
+                    "text": "I had to call more than once to get a definitive solution for a recurring instability. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.97,
+                        "neutral": 0.02,
+                        "negative": 0
+                    },
+                    "offset": 686,
+                    "length": 82,
+                    "text": "The installation process was relatively quick, and the technicians were punctual. ",
+                    "targets": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 690,
+                            "length": 20,
+                            "text": "installation process",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/7/assessments/0"
+                                }
+                            ]
+                        },
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 741,
+                            "length": 11,
+                            "text": "technicians",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/7/assessments/1"
+                                }
+                            ]
+                        }
+                    ],
+                    "assessments": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 726,
+                            "length": 5,
+                            "text": "quick",
+                            "isNegated": false
+                        },
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 758,
+                            "length": 8,
+                            "text": "punctual",
+                            "isNegated": false
+                        }
+                    ]
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.02,
+                        "neutral": 0.98,
+                        "negative": 0
+                    },
+                    "offset": 768,
+                    "length": 81,
+                    "text": "They explained the basic operation of the equipment and performed initial tests. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0,
+                        "neutral": 0,
+                        "negative": 1
+                    },
+                    "offset": 849,
+                    "length": 120,
+                    "text": "However, the router provided was not the best, and I needed to make adjustments to improve the signal inside the house. ",
+                    "targets": [
+                        {
+                            "sentiment": "negative",
+                            "confidenceScores": {
+                                "positive": 0,
+                                "negative": 1
+                            },
+                            "offset": 862,
+                            "length": 6,
+                            "text": "router",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/9/assessments/0"
+                                }
+                            ]
+                        }
+                    ],
+                    "assessments": [
+                        {
+                            "sentiment": "negative",
+                            "confidenceScores": {
+                                "positive": 0,
+                                "negative": 1
+                            },
+                            "offset": 890,
+                            "length": 4,
+                            "text": "best",
+                            "isNegated": true
+                        }
+                    ]
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0,
+                        "neutral": 0,
+                        "negative": 1
+                    },
+                    "offset": 969,
+                    "length": 124,
+                    "text": "The price of the plan is within the market average, but for the service provided, I do not feel it is good value for money. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.57,
+                        "neutral": 0.31,
+                        "negative": 0.12
+                    },
+                    "offset": 1093,
+                    "length": 80,
+                    "text": "If the speed were more stable and there were fewer drops, it would be worth it. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.16,
+                        "neutral": 0.64,
+                        "negative": 0.2
+                    },
+                    "offset": 1173,
+                    "length": 61,
+                    "text": "As it is, it seems like I'm paying more than I actually get. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0,
+                        "neutral": 0.97,
+                        "negative": 0.03
+                    },
+                    "offset": 1234,
+                    "length": 99,
+                    "text": "The standard router has a limited range, and in more distant rooms, the signal drops considerably. ",
+                    "targets": [
+                        {
+                            "sentiment": "negative",
+                            "confidenceScores": {
+                                "positive": 0.04,
+                                "negative": 0.96
+                            },
+                            "offset": 1306,
+                            "length": 6,
+                            "text": "signal",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/13/assessments/0"
+                                }
+                            ]
+                        }
+                    ],
+                    "assessments": [
+                        {
+                            "sentiment": "negative",
+                            "confidenceScores": {
+                                "positive": 0.04,
+                                "negative": 0.96
+                            },
+                            "offset": 1313,
+                            "length": 5,
+                            "text": "drops",
+                            "isNegated": false
+                        }
+                    ]
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.43,
+                        "neutral": 0.16,
+                        "negative": 0.41
+                    },
+                    "offset": 1333,
+                    "length": 164,
+                    "text": "I had to invest in a repeater to improve coverage inside the house, something that could be better solved with more powerful equipment right from the installation. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0,
+                        "neutral": 0.08,
+                        "negative": 0.92
+                    },
+                    "offset": 1497,
+                    "length": 108,
+                    "text": "There are days when the internet works well and others when there are instabilities for no apparent reason. ",
+                    "targets": [
+                        {
+                            "sentiment": "negative",
+                            "confidenceScores": {
+                                "positive": 0,
+                                "negative": 1
+                            },
+                            "offset": 1521,
+                            "length": 8,
+                            "text": "internet",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/15/assessments/0"
+                                }
+                            ]
+                        }
+                    ],
+                    "assessments": [
+                        {
+                            "sentiment": "negative",
+                            "confidenceScores": {
+                                "positive": 0,
+                                "negative": 1
+                            },
+                            "offset": 1567,
+                            "length": 13,
+                            "text": "instabilities",
+                            "isNegated": false
+                        }
+                    ]
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0,
+                        "neutral": 0.99,
+                        "negative": 0.01
+                    },
+                    "offset": 1605,
+                    "length": 110,
+                    "text": "Even without total drops, the ping and latency vary a lot, which mainly affects online games and video calls. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0,
+                        "neutral": 0.01,
+                        "negative": 0.99
+                    },
+                    "offset": 1715,
+                    "length": 83,
+                    "text": "The service works most of the time, but it doesn't deliver everything it promises. ",
+                    "targets": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 0.99,
+                                "negative": 0.01
+                            },
+                            "offset": 1719,
+                            "length": 7,
+                            "text": "service",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/17/assessments/0"
+                                }
+                            ]
+                        }
+                    ],
+                    "assessments": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 0.99,
+                                "negative": 0.01
+                            },
+                            "offset": 1727,
+                            "length": 5,
+                            "text": "works",
+                            "isNegated": false
+                        }
+                    ]
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.82,
+                        "negative": 0.17
+                    },
+                    "offset": 1798,
+                    "length": 113,
+                    "text": "For those who need a reliable connection for work or entertainment without interruptions, it can be frustrating. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0.07,
+                        "neutral": 0.09,
+                        "negative": 0.84
+                    },
+                    "offset": 1911,
+                    "length": 102,
+                    "text": "With some improvements in the infrastructure and faster support, the experience could be much better. ",
+                    "targets": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 0.98,
+                                "negative": 0.02
+                            },
+                            "offset": 1967,
+                            "length": 7,
+                            "text": "support",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/19/assessments/0"
+                                }
+                            ]
+                        },
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 0.92,
+                                "negative": 0.08
+                            },
+                            "offset": 1980,
+                            "length": 10,
+                            "text": "experience",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/19/assessments/1"
+                                }
+                            ]
+                        }
+                    ],
+                    "assessments": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 0.98,
+                                "negative": 0.02
+                            },
+                            "offset": 1960,
+                            "length": 6,
+                            "text": "faster",
+                            "isNegated": false
+                        },
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 0.92,
+                                "negative": 0.08
+                            },
+                            "offset": 2005,
+                            "length": 6,
+                            "text": "better",
+                            "isNegated": false
+                        }
+                    ]
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.03,
+                        "neutral": 0.75,
+                        "negative": 0.23
+                    },
+                    "offset": 2013,
+                    "length": 73,
+                    "text": "If there are no better options in the region, it may be a viable choice. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.98,
+                        "negative": 0
+                    },
+                    "offset": 2086,
+                    "length": 79,
+                    "text": "Otherwise, it's worth researching other alternatives before signing a contract.",
+                    "targets": [],
+                    "assessments": []
+                }
+            ],
+            "warnings": []
+        }
+    ],
+    "errors": [],
+    "modelVersion": "2024-03-01"
+}
